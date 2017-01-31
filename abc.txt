@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-merge testing push
-=======
-testing fetch
->>>>>>> new1master
+test
